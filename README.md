@@ -1,4 +1,4 @@
-<img width="1093" height="627" alt="image" src="https://github.com/user-attachments/assets/3f7a5ab4-3ad3-4929-b8b3-42b4923fac14" /># simple_auth
+
 
 ## Overview
 This folder demonstrates two basic authentication mechanisms using **Node.js + Express**:
